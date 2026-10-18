@@ -1,0 +1,17 @@
+{
+  "name": "Jarvis Market Assistant",
+  "short_name": "Jarvis",
+  "description": "Your AI-powered stock market assistant for Indian markets",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a0e17",
+  "theme_color": "#00d4ff",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%230a0e17'/><circle cx='96' cy='86' r='40' fill='none' stroke='%2300d4ff' stroke-width='4'/><circle cx='96' cy='86' r='20' fill='%2300d4ff' opacity='0.3'/><circle cx='96' cy='86' r='6' fill='%2300d4ff'/><path d='M60 140h72' stroke='%2300d4ff' stroke-width='3' stroke-linecap='round'/><path d='M70 152h52' stroke='%2300d4ff' stroke-width='3' stroke-linecap='round' opacity='0.6'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
